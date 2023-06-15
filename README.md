@@ -29,7 +29,7 @@ This is a simple file storage API service that allows users to manage binary fil
 
     To run and use the File Storage API, follow these steps:
 
-  1. Clone the repository: git clone <>
+  1. Clone the repository: git clone <https://github.com/CodeCrusader0/DocStorage.git>
   2. Install the dependencies: pip install -r requirements.txt
   3. Apply database migrations: python manage.py migrate
   4. Start the development server: python manage.py runserver
