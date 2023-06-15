@@ -29,8 +29,10 @@ This is a simple file storage API service that allows users to manage binary fil
 
     To run and use the File Storage API, follow these steps:
 
-  1. Clone the repository: git clone <repository-url>
+  1. Clone the repository: git clone <>
   2. Install the dependencies: pip install -r requirements.txt
   3. Apply database migrations: python manage.py migrate
   4. Start the development server: python manage.py runserver
+  5. The API will be accessible at `http://localhost:8000/`.
+  6. Use a tool like cURL, Postman, or any other HTTP client to interact with the API endpoints as described above.
 
